@@ -1,4 +1,4 @@
-# Northwestern Research Computing Python: TensorFlow Workshop
+# Python: Deep Learning with TensorFlow
 
 [https://github.com/nuitrcs/NUIT_tensorflow](https://github.com/allemanau/NUIT_tensorflow)
 
