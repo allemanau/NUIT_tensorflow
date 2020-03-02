@@ -8,9 +8,8 @@ General information about RCS Python Workshops can be found in the [Python Works
 
 ## Prep
 
-In order to focus on deep learning and TensorFlow, we will work from Google Colab using this repository. 
+In order to focus on deep learning and TensorFlow, we will work from Google Colab using this repository. Consequently, there's no need to install nor download anything - you will work from notebooks directly in Google Colab. Following the steps below:
 
-Therefore, there is no need to install nor download anything - you will work from notebooks directly in Google Colab. Following the steps below:
 - Log in to Google
 - Open Google Colab: [https://colab.research.google.com](https://colab.research.google.com) 
 - Go to File > Open notebook
