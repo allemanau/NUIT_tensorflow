@@ -22,7 +22,7 @@ We will go through the steps together at the end of the short intro presentation
 
 ### Objective of the workshop
 
-Learn the basics of deep learning, and practice implementing basic models with TensorFlow 2.0.
+Learn enough to be dangerous about deep learning, and practice implementing basic models with TensorFlow 2.0.
 
 ### Learning outcomes
 
