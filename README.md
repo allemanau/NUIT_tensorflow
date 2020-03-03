@@ -1,6 +1,6 @@
-# Northwestern Research Computing Python: TensorFlow Workshop
+# Python: Deep Learning with TensorFlow
 
-[https://github.com/nuitrcs/Python-Tensorflow](https://github.com/nuitrcs/Python-Tensorflow)
+[https://github.com/nuitrcs/NUIT_tensorflow](https://github.com/allemanau/NUIT_tensorflow)
 
 ## General Info
 
@@ -8,41 +8,32 @@ General information about RCS Python Workshops can be found in the [Python Works
 
 ## Prep
 
-In order to focus on Deep learning and Tensorflow characteristics and not to be distracted with the installations and possible problems with versioning or other issues, we will work from Google Colab using this repository. 
+In order to focus on deep learning and TensorFlow, we will work from Google Colab using this repository. Consequently, there's no need to install nor download anything - you will work from notebooks directly in Google Colab. Following the steps below:
 
-Therefore, there is no need to install nor download anything - You will work from notebooks directly in the Google Colab. Following the steps below:
 - Log in to Google
-- Open Google colab following this link [https://colab.research.google.com](https://colab.research.google.com) 
-- There should be an opportunity to find Github tab and enter [https://github.com/nuitrcs/Python-Tensorflow](https://github.com/nuitrcs/Python-Tensorflow)
+- Open Google Colab: [https://colab.research.google.com](https://colab.research.google.com) 
+- Go to File > Open notebook
+- Click on the GitHub tab
 - Open the notebook we are working on
-- If not you could:
->- Find the tab File
->- Find the tab open notebook
->- Find the tab github 
->- Enter a following Github URL [https://github.com/nuitrcs/Python-Tensorflow](https://github.com/nuitrcs/Python-Tensorflow)
->>- It might happen that you need to open [https://github.com/nuitrcs](https://github.com/nuitrcs) and only from there to find Python-Tensorflow
->- Open the notebook we are working on
 
-We will go through the above steps together
+We will go through the steps together at the end of the short intro presentation.
 
 ## Tensorflow Workshop Overview
 
 ### Objective of the workshop
 
-Learn the foundations of, and practice the skills necessary to do deep learning with Tensorflow
+Learn enough to be dangerous about deep learning, and practice implementing basic models with TensorFlow 2.0.
 
 ### Learning outcomes
 
-* What is Tensorflow and how to set it up
-*	What types of problems deep learning can help with
-*	What tensors are and how to work with them
-*	Build, train and apply fully connected deep neural networks on two image datasets
-*	Evaluate model performance
+* Learn about fundamental deep learning principles and challenges
+*	Practice implementing and evaluating models with TensorFlow and Keras
+* Work with convolutional layers, pooling layers, and data augmentation
 
 
 ### Resources
 
-General Machine Learning, Data Science, Deep learning resources:
+General machine learning, data science, and deep learning resources:
 
 [Data Science Central](https://www.datasciencecentral.com) - A great online group of data science enthusiasts where you can find everything related to machine learning, predictive modeling, data science and more.
 
@@ -52,16 +43,13 @@ General Machine Learning, Data Science, Deep learning resources:
 
 [Coursera](https://www.coursera.org/), [edx](https://www.edx.org/), [udacity](https://www.udacity.com/), [Kadenze](http://www.kadenze.com) courses. I would strongly recommend Andrew Ng's machine learning courses. 
 
-It is important to learn about word2vec and this is an interesting starting point:
-[Word2vec a baby step in deep learning, but a giant leap towards natural language processing](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
+#### More specific TensorFlow related resources:
 
-#### More specific Tensorflow related resources:
+General TensorFlow resources and more specific tutorials that cover multiple topics can be found on [Tensorflow Website](https://www.tensorflow.org/).  
 
-General tensorflow resources and more specific tutorials that cover multiple topics can be found on [Tensorflow Website](https://www.tensorflow.org/).  
+[TensorFlow workshops](https://github.com/tensorflow/workshops)
 
-[Tensorflow workshops](https://github.com/tensorflow/workshops)
-
-[More Tensorflow worskhops](https://www.easy-tensorflow.com/workshops)
+[More TensorFlow worskhops](https://www.easy-tensorflow.com/workshops)
 
 For preparing notebooks in this workshop I used the following resources:
 
