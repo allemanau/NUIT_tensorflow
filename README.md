@@ -16,6 +16,7 @@ Instructions for opening a notebook:
 - Open Google Colab: [https://colab.research.google.com](https://colab.research.google.com) 
 - Go to File > Open notebook
 - Click on the GitHub tab
+- Search for my username ('allemanau'), and once found, select this repository ('NUIT_tensorflow')
 - Open the current notebook
 
 We will go through the steps together at the end of the short intro presentation.
