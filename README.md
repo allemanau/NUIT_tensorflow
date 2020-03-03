@@ -1,5 +1,4 @@
 # Python: Deep Learning with TensorFlow
-### NUIT Research Computing Services
 
 [https://github.com/nuitrcs/NUIT_tensorflow](https://github.com/allemanau/NUIT_tensorflow)
 
@@ -9,13 +8,15 @@ General information about RCS Python Workshops can be found in the [Python Works
 
 ## Prep
 
-In order to focus on deep learning and TensorFlow, we will work from Google Colab using this repository. Consequently, there's no need to install nor download anything - you will work from notebooks directly in Google Colab. Following the steps below:
+In order to ensure a seamless workshop experience, we will not depend on local Jupyter/Python installations, but instead work from Google Colab. Consequently, there's no need to install nor download anything - you will work from notebooks directly in Google Colab.
+
+Instructions for opening a notebook:
 
 - Log in to Google
 - Open Google Colab: [https://colab.research.google.com](https://colab.research.google.com) 
 - Go to File > Open notebook
 - Click on the GitHub tab
-- Open the notebook we are working on
+- Open the current notebook
 
 We will go through the steps together at the end of the short intro presentation.
 
@@ -30,7 +31,6 @@ Learn enough to be dangerous about deep learning, and practice implementing basi
 * Learn about fundamental deep learning principles and challenges
 *	Practice implementing and evaluating models with TensorFlow and Keras
 * Work with convolutional layers, pooling layers, and data augmentation
-
 
 ### Resources
 
