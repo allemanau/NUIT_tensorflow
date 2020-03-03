@@ -52,13 +52,3 @@ General TensorFlow resources and more specific tutorials that cover multiple top
 [TensorFlow workshops](https://github.com/tensorflow/workshops)
 
 [More TensorFlow worskhops](https://www.easy-tensorflow.com/workshops)
-
-For preparing notebooks in this workshop I used the following resources:
-
-[https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/](https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/)
-
-[https://www.tensorflow.org/tutorials/keras/overfit_and_underfit](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)
-
-[https://web.stanford.edu/class/cs20si/syllabus.html](https://web.stanford.edu/class/cs20si/syllabus.html)
-
-[https://github.com/easy-tensorflow/easy-tensorflow/blob/master/3_Neural_Network/Tutorials/1_Neural_Network.ipynb](https://github.com/easy-tensorflow/easy-tensorflow/blob/master/3_Neural_Network/Tutorials/1_Neural_Network.ipynb)
