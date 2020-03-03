@@ -1,4 +1,5 @@
 # Python: Deep Learning with TensorFlow
+### NUIT Research Computing Services
 
 [https://github.com/nuitrcs/NUIT_tensorflow](https://github.com/allemanau/NUIT_tensorflow)
 
