@@ -8,7 +8,7 @@ General information about RCS Python Workshops can be found in the [Python Works
 
 ## Prep
 
-In order to ensure a seamless workshop experience, we will not depend on local Jupyter/Python installations, but instead work from Google Colab. Consequently, there's no need to install nor download anything - you will work from notebooks directly in Google Colab.
+In order to ensure a seamless workshop experience, we will not depend on local Jupyter/Python installations. Consequently, there's no need to install nor download anything - you will work from notebooks directly in Google Colab.
 
 Instructions for opening a notebook:
 
