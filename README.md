@@ -1,6 +1,6 @@
 # Python: Deep Learning with TensorFlow
 
-[https://github.com/nuitrcs/NUIT_tensorflow](https://github.com/allemanau/NUIT_tensorflow)
+[https://github.com/allemanau/NUIT_tensorflow](https://github.com/allemanau/NUIT_tensorflow)
 
 ## General Info
 
@@ -25,7 +25,7 @@ We will go through the steps together at the end of the short intro presentation
 
 ### Objective of the workshop
 
-Learn enough to be dangerous about deep learning, and practice implementing basic models with TensorFlow 2.0.
+Learn enough about deep learning, Python, TensorFlow, and Keras to be dangerous, and practice implementing basic models with TensorFlow 2.0.
 
 ### Learning outcomes
 
